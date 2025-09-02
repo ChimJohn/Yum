@@ -1,0 +1,252 @@
+{
+    "toppanHome": [
+        {
+            "name": "TOPPAN Ecquaria",
+            "latLong": "1.3370795165890101, 103.84970359300361"
+        }
+    ],
+    "icaHome": [
+        {
+            "name": "Immigration and Checkpoints Authority",
+            "latLong": "1.3070816063479482, 103.86260893270867"
+        }
+    ],
+    "toppanFood": [
+        {
+            "name": "Tea Inn Bak Kut Teh",
+            "latLong": "1.3384727154480918, 103.84956182276082",
+            "openDay": ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "08:00",
+                "close": "13:30"
+            }
+        },
+        {
+            "name": "Tian Tian Fa",
+            "latLong": "1.3402290632132854, 103.85451199821881",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "06:00",
+                "close": "12:00"
+            }
+        },
+        {
+            "name": "Changi Village Fried Hokkien Mee",
+            "latLong": "1.3402940673025714, 103.85434426234261",
+            "openDay": ["Mon", "Tue", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:15",
+                "close": "20:30"
+            }
+        },
+        {
+            "name": "Seletar Sheng Mian Mee Hoon Kway",
+            "latLong": "1.3401058754307744, 103.85430214671726",
+            "openDay": ["Mon", "Tue", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "06:00",
+                "close": "14:00"
+            }
+        },
+        {
+            "name": "Min Kee Tanjong Rhu Wanton Noodle",
+            "latLong": "",
+            "openDay": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "07:30",
+                "close": "14:30"
+            }
+        },
+        {
+            "name": "Ah Chuan Fried Oyster Omelette",
+            "latLong": "1.3357172126652832, 103.85691466190679",
+            "openDay": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "06:00",
+                "close": "18:00"
+            }
+        },
+        {
+            "name": "Hougang 6 Miles Famous Muah Chee",
+            "latLong": "1.3323024100698002, 103.8483621059449",
+            "openDay": ["Mon", "Tue", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "10:30",
+                "close": "21:30"
+            }
+        },
+        {
+            "name": "HAN KKI",
+            "latLong": "1.3330381327762062, 103.84819127885449",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:30",
+                "close": "21:30"
+            }
+        },
+        {
+            "name": "Xi'an Famous Food",
+            "latLong": "1.3331045053936876, 103.84823804459904",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "10:00",
+                "close": "22:00"
+            }
+        },
+        {
+            "name": "Lorong 5 Fish Soup",
+            "latLong": "1.3360875849438743, 103.85302056022272",
+            "openDay": ["Tue", "Wed", "Fri"],
+            "openTime": {
+                "open": "12:00",
+                "close": "18:00"
+            }
+        },
+        {
+            "name": "Gen Shu Mei Shi Shi Jia",
+            "latLong": "1.3346712910573544, 103.85195235046122",
+            "openDay": ["Tue", "Wed", "Thu", "Sat", "Sun"],
+            "openTime": {
+                "open": "05:30",
+                "close": "12:00"
+            }
+        },
+        {
+            "name": "Wanglee Cafe",
+            "latLong": "1.3381338203512423, 103.84946712031265",
+            "openDay": ["Mon", "Tue", "Wed", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "07:00",
+                "close": "17:00"
+            }
+        },
+        {
+            "name": "Lorong 4 Kuey Chap",
+            "latLong": "1.3385511452842112, 103.84959494323903",
+            "openDay": ["Tue", "Wed", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "17:30",
+                "close": "23:00"
+            }
+        },
+        {
+            "name": "Kim Keat Hokkien Mee",
+            "latLong": "1.3381710386440857, 103.84967349986667",
+            "openDay": ["Mon", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:00",
+                "close": "20:00"
+            }
+        },
+        {
+            "name": "Hua Fong Kee Roasted Duck",
+            "latLong": "1.338416246307794, 103.84452908167397",
+            "openDay": ["Mon", "Tue", "Wed", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "07:30",
+                "close": "20:00"
+            }
+        },
+        {
+            "name": "Fire Rice Toa Payoh",
+            "latLong": "1.3379884737198446, 103.84584951591596",
+            "openDay": ["Mon", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:00",
+                "close": "20:00"
+            }
+        },
+        {
+            "name": "Uno Beef House",
+            "latLong": "1.3317290956964227, 103.84330036635902",
+            "openDay": ["Mon", "Tue", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:30",
+                "close": "21:00"
+            }
+        },
+        {
+            "name": "Hup Chong Yong Tau Foo",
+            "latLong": "1.3421149034032223, 103.84884484821575",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "07:00",
+                "close": "19:00"
+            }
+        },
+        {
+            "name": "Chey Sua Carrot Cake",
+            "latLong": "1.3380291613587505, 103.84467171798114",
+            "openDay": ["Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "06:30",
+                "close": "13:00"
+            }
+        },
+        {
+            "name": "Jade's Chicken",
+            "latLong": "1.3382027003472021, 103.84579445586496",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "12:00",
+                "close": "20:30"
+            }
+        },
+        {
+            "name": "Meixi Yong Tau Foo",
+            "latLong": "1.33420068139285, 103.85172693798127",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "00:00",
+                "close": "23:59"
+            }
+        }
+    ],
+    "icaFood": [
+        {
+            "name": "Ji Zai Ji Golden Mile Hainanese Boneless Chicken Rice",
+            "latLong": "1.303100601442747, 103.86394626455001",
+            "openDay": ["Tue", "Wed", "Thu", "Fri", "Sat"],
+            "openTime": {
+                "open": "10:30",
+                "close": "20:00"
+            }
+        },
+        {
+            "name": "Ming Chung Restaurant",
+            "latLong": "1.3080877155664918, 103.85813928982236",
+            "openDay": ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "12:00",
+                "close": "22:00"
+            }
+        },
+        {
+            "name": "Authentic Mun Chee Kee King of Pig's Organ Soup",
+            "latLong": "1.3080725119548773, 103.85818421440707",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "10:30",
+                "close": "23:59"
+            }
+        },
+        {
+            "name": "Beach Road Scissors Cut Curry Rice",
+            "latLong": "1.3095548946231856, 103.8577802172824",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "11:00",
+                "close": "23:59"
+            }
+        },
+        {
+            "name": "Hill Street Tai Hwa Pork Noodle, Crawford Lane",
+            "latLong": "1.3051245244670029, 103.8625430150564",
+            "openDay": ["Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+            "openTime": {
+                "open": "09:00",
+                "close": "20:30"
+            }
+        }
+    ]
+}
