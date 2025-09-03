@@ -247,6 +247,15 @@
                 "open": "09:00",
                 "close": "20:30"
             }
+        },
+        {
+            "name": "Hoe Hokkien Mee",
+            "latLong": "1.3056389619236455, 103.86383071879277",
+            "openDay": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+            "openTime": {
+                "open": "08:00",
+                "close": "16:30"
+            }
         }
     ]
 }
